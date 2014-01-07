@@ -1,0 +1,4 @@
+vagrant-seed
+============
+
+vagrant-seed
